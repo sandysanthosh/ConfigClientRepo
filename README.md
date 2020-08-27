@@ -1,6 +1,6 @@
 # ConfigClientRepo
 
-Config Server Client
+### Config Server Client
 
 ```
 
@@ -11,3 +11,8 @@ spring.application.name=spring-config-server-app
 management.endpoints.web.exposure.include=*
 
 ```
+
+
+### for Config Server Refer this link:
+
+https://github.com/sandysanthosh/ConfigServerRepo
